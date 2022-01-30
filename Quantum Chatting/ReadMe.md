@@ -1,7 +1,7 @@
 # Quantum Chatting
 Quantum Chatting is a webapp that use quantum key distribution (the BB84 Protocol + Huffman Coding) to send an encrypted message between people.
 <p align="center">
-  <img width="500" height="500" src="![Quantum Chatting](https://user-images.githubusercontent.com/64653897/151697533-5dccf1e7-71d1-4cfd-be1a-bae04d40bfa7.png)">
+  <img width="500" height="500" src="![image](https://user-images.githubusercontent.com/64653897/151698301-3e602dc2-6023-4d38-9bb2-61362a4fb730.png)">
 </p>
 
 ## :pushpin: About
